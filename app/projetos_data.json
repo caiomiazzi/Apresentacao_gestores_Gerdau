@@ -1,0 +1,74 @@
+{
+  "dados_veiculares": {
+    "titulo": "Modelagem e Análise de Dados Veiculares",
+    "periodo": "2023",
+    "descricao": "Neste projeto, apliquei conceitos de modelagem de banco de dados e SQL para explorar o setor automotivo. O objetivo era analisar a precificação e desvalorização de veículos, além de relacioná-los aos salários mínimos. Utilizei dados da FIPE, Ficha Técnica e Ipeadata, desenvolvendo um modelo relacional eficiente e aplicando formas normais. O maior desafio foi a limpeza e organização dos dados, que resultou em insights sobre acessibilidade econômica.",
+    "github": "https://github.com/caiomiazzi/Banco_de_Dados_Ada-iFood",
+    "demo": null,
+    "screenshots": []
+  },
+  "eda_olist": {
+    "titulo": "Análise Exploratória de Dados para Estratégia de Vendas na Olist",
+    "periodo": "2023",
+    "descricao": "Consultoria simulada para ajudar um cliente a iniciar vendas na plataforma Olist. Integrei diferentes tabelas da base de dados e desenvolvi análises para identificar produtos e regiões com maior potencial. O projeto evidenciou oportunidades nas categorias de Lazer, Casa e Decoração, e Beleza e Saúde, com foco em SP, RJ e MG.",
+    "github": null,
+    "demo": null,
+    "screenshots": []
+  },
+  "melanoma_representatividade": {
+    "titulo": "Detecção de Melanoma com Foco na Representatividade de Tons de Pele",
+    "periodo": "2024",
+    "descricao": "Criação de um modelo de classificação de melanomas com ênfase na diversidade de tons de pele. Implementei CNNs com arquiteturas como ResNet e VGG, e usei transferência de estilo para gerar imagens de peles negras e pardas. O projeto evidenciou vieses raciais em dados médicos e propôs soluções para aumentar a equidade na detecção.",
+    "github": "https://github.com/orgs/Baldaio-Miteus/repositories",
+    "demo": null,
+    "screenshots": []
+  },
+  "hackathon_ada": {
+    "titulo": "Hackathon Ada - Diversidade Corporativa",
+    "periodo": "2024",
+    "descricao": "Durante o Hackathon Ada Tech, trabalhei na análise de desigualdades demográficas na empresa fictícia Corp Solutions. Desenvolvi um índice de dissimilaridade que mostrou como o aumento de diversidade étnico-racial impacta positivamente a produtividade. Utilizamos Python, Power BI e Trello para análise, visualização e gestão das tarefas do projeto.",
+    "github": "https://github.com/caiomiazzi/Hackaton_AdaTech_2024?tab=readme-ov-file",
+    "demo": "https://app.powerbi.com/view?r=eyJrIjoiMDc3MTNlNjMtYTAwMi00MzQzLWFmNWMtYjI1OGI4MThhMTkwIiwidCI6IjMzMWI2YTljLWJiNWYtNDk0Ni1hN2U3LWE5ZmQ5ZDUzNmVhNiJ9",
+    "screenshots": []
+  },
+  "automacao_mapas_calor": {
+    "titulo": "Automação de Mapas de Calor no Looker Studio",
+    "periodo": "2024",
+    "descricao": "Automatização do processo manual de visualização de mapas de calor em dashboards no Looker Studio. O script em Python recortava e montava imagens automaticamente, otimizando o tempo e melhorando a qualidade visual.",
+    "github": null,
+    "demo": null,
+    "screenshots": []
+  },
+  "remocao_sufixos": {
+    "titulo": "Remoção Automática de Sufixos em Banco de Dados",
+    "periodo": "2024",
+    "descricao": "Automatização de uma tarefa manual de limpeza de dados. Criei um script Python para remover sufixos de forma padronizada, integrado à pipeline no Google Drive. A solução trouxe mais eficiência e confiabilidade ao processo.",
+    "github": null,
+    "demo": null,
+    "screenshots": []
+  },
+  "dashboard_farmaceutica": {
+    "titulo": "Dashboard de Digital Performance",
+    "periodo": "2024",
+    "descricao": "Construção de um dashboard estratégico para uma farmacêutica, utilizando Power BI e Power Query. O projeto incluiu o tratamento de dados, criação de medidas, tabelas auxiliares e adaptação visual ao guia da empresa. O dashboard final apoiou a equipe de marketing com insights para decisões estratégicas.",
+    "github": null,
+    "demo": null,
+    "screenshots": []
+  },
+  "cvm_vetorial_testes": {
+    "titulo": "Projeto CVM - Estruturação de Banco de Dados Vetorial e Testes Unitários",
+    "periodo": "2025",
+    "descricao": "No contexto de um projeto da Comissão de Valores Mobiliários (CVM), fui responsável pela implementação de uma base vetorial para aplicações com modelos de linguagem generativos. Além disso, desenvolvi uma estrutura de testes unitários para garantir a robustez do sistema. O projeto envolveu práticas de LLMOps e estruturação eficiente para futuras integrações com ferramentas de IA.",
+    "github": null,
+    "demo": null,
+    "screenshots": []
+  },
+  "cvm_verificacao_comunicados": {
+    "titulo": "Projeto CVM - Automação de Verificação de Comunicados Oficiais",
+    "periodo": "2025 (em andamento)",
+    "descricao": "Projeto em desenvolvimento na CVM com foco na automatização da verificação se uma notícia corresponde ou não a comunicados oficiais. Envolve o uso de técnicas avançadas de NLP, chunking recursivo e análise semântica de similaridade textual. Também estou conduzindo experimentos comparativos com diferentes métodos de divisão de texto, com atenção especial à performance e fidelidade analítica dos resultados.",
+    "github": null,
+    "demo": null,
+    "screenshots": []
+  }
+}
