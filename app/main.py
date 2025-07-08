@@ -21,12 +21,14 @@ st.set_page_config(
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Construir caminho absoluto para a imagem
-LOGO_PATH = os.path.join(SCRIPT_DIR, "static", "stellantis_logo_2.png")
+LOGO_PATH = os.path.join(SCRIPT_DIR, "static", "stellantis_logo.jpeg")
+
+
 
 # Verificação e fallback
 if not os.path.exists(LOGO_PATH):
     # Tentar caminho alternativo (um nível acima)
-    ALT_PATH = os.path.join(SCRIPT_DIR, "..", "static", "stellantis_logo_2.png")
+    ALT_PATH = os.path.join(SCRIPT_DIR, "..", "static", "stellantis_logo.jpeg")
     if os.path.exists(ALT_PATH):
         LOGO_PATH = ALT_PATH
     else:
