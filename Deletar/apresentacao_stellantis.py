@@ -48,4 +48,4 @@ with st.expander("Clique para visualizar minha trajetória completa"):
 
 # Rodapé
 st.markdown("---")
-st.info("Este portfólio foi criado como material complementar para o Painel Stellantis.")
+st.info("Este portfólio foi criado como material complementar para o Painel Gerdau.")
